@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "MainArgsDemo": {
+      "commandName": "Project",
+      "commandLineArgs": "Aman Ahmed\r\n"
+    }
+  }
+}
